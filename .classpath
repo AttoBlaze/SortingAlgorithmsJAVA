@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/programmering/eclipselibraries/beads/library/beads.jar"/>
+	<classpathentry kind="lib" path="C:/programmering/eclipselibraries/beads/library/beads-io.jar"/>
+	<classpathentry kind="lib" path="C:/programmering/eclipselibraries/beads/library/jarjar-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/programmering/eclipselibraries/beads/library/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/programmering/eclipselibraries/beads/library/jna.jar"/>
+	<classpathentry kind="lib" path="C:/programmering/eclipselibraries/beads/library/mp3spi1.9.4.jar"/>
+	<classpathentry kind="lib" path="C:/programmering/eclipselibraries/beads/library/org-jaudiolibs-audioservers.jar"/>
+	<classpathentry kind="lib" path="C:/programmering/eclipselibraries/beads/library/org-jaudiolibs-audioservers-jack.jar"/>
+	<classpathentry kind="lib" path="C:/programmering/eclipselibraries/beads/library/org-jaudiolibs-audioservers-javasound.jar"/>
+	<classpathentry kind="lib" path="C:/programmering/eclipselibraries/beads/library/org-jaudiolibs-jnajack.jar"/>
+	<classpathentry kind="lib" path="C:/programmering/eclipselibraries/beads/library/tools.jar"/>
+	<classpathentry kind="lib" path="C:/programmering/eclipselibraries/beads/library/tritonus_aos-0.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/programmering/eclipselibraries/beads/library/tritonus_share.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
